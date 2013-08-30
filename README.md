@@ -17,10 +17,6 @@ Release Notes
 
 - Initiation TcPdf in zf2
 
-Requirements
-========================
-- ZendSkeletonApplication https://github.com/zendframework/ZendSkeletonApplication
-
 Installation
 ========================
 
