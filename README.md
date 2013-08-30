@@ -23,15 +23,19 @@ Requirements
 
 Installation
 ========================
-- Drag a folder into modules folder or vendor folder
-- Enable the module application.config.php
 
-Installation by Composer
-========================
-See the information if not known composer and clone git
-=========================================================
-- http://git-scm.com
-- http://getcomposer.org
+Add this repository to your composer.json file:
+
+```
+"repositories": [
+	{
+		"type": "vcs",
+		"url": "https://github.com/milqmedia/MQTcPdf"
+	}
+]
+```
+
+And ```"milqmedia/mq-tcpdf": "dev-master"``` to the require list or use the command line:
 
 ```
 cd YourFolderProject/
