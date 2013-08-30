@@ -4,9 +4,9 @@
  * @Contact: cel@cenics.net
  * @Company: Cencis s.c.p.
  */
-namespace QuTcPdf;
+namespace MQTcPdf;
 
-use QuTcPdf\Exception;
+use MQTcPdf\Exception;
 
 class Module
 {
@@ -35,7 +35,7 @@ class Module
         $module = $this;
         return array(
             'factories' => array(
-                'QuTcPdf' => function () use ($module) {
+                'MQTcPdf' => function () use ($module) {
                     return $module;
                 },
             ),

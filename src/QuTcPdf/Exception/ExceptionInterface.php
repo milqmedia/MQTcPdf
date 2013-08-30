@@ -4,7 +4,7 @@
  * @Contact: cel@cenics.net
  * @Company: Cencis s.c.p.
  */
-namespace QuTcPdf\Exception;
+namespace MQTcPdf\Exception;
 
 interface ExceptionInterface
 {

@@ -1,10 +1,10 @@
 {
-    "name": "qu-modules/qu-tcpdf",
+    "name": "milqmedia/mq-tcpdf",
     "description": "ZF2 module for TcPdf",
     "type": "module",
-    "version":"0.0.1-dev",
+    "version":"0.0.2-dev",
     "keywords": ["tcpdf","pdf","zf2","module"],
-    "homepage": "https://github.com/Celtico/QuTcPdf",
+    "homepage": "https://github.com/milqmedia/MQTcPdf",
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.3.3",
@@ -17,13 +17,19 @@
             "homepage": "http://www.cenics.cat",
             "role": "Developer"
         }
+        {
+            "name": "Johan Kuijt",
+            "email": "johan@milq.nl",
+            "homepage": "http://www.milq.nl",
+            "role": "Developer"
+        }
     ],
     "support": {
-        "email": "cel@cenics.net"
+        "email": "johan@milq.nl"
     },
     "autoload": {
         "psr-0": {
-            "QuTcPdf": "src/"
+            "MQTcPdf": "src/"
         },
         "classmap": [
             "./Module.php"
