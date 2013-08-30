@@ -16,7 +16,7 @@
             "email": "cel@cenics.net",
             "homepage": "http://www.cenics.cat",
             "role": "Developer"
-        }
+        },
         {
             "name": "Johan Kuijt",
             "email": "johan@milq.nl",
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-0": {
-            "MQTcPdf": "src/"
+            "MTcPdf": "src/"
         },
         "classmap": [
             "./Module.php"
