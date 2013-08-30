@@ -1,10 +1,15 @@
-QuTcPdf 0.0.1-dev:
+QuTcPdf 0.0.2-dev:
 ========================
 
 ZF2 module for TcPdf
 
 Release Notes
 ========================
+
+0.0.2-dev:
+
+- Forked QuTcPdf
+- Updated TcPdf to version 6.0.23
 
 0.0.1-dev:
 
