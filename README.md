@@ -35,7 +35,7 @@ And ```"milqmedia/mq-tcpdf": "dev-master"``` to the require list or use the comm
 
 ```
 cd YourFolderProject/
-php composer.phar require "milq/mq-tcpdf":"dev-master"
+php composer.phar require "milqmedia/mq-tcpdf":"dev-master"
 ```
 
 Integration
